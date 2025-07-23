@@ -14,6 +14,7 @@ Used all SSDTs from PurpleCrumpet's project and a couple of kexts for updated Op
 | Storage            | 256GB Intel SSD                                                                               |
 | Wifi Card           | Intel Wifi AC8265 + Bluetooth 4.2                                        |
 | Battery            | 60Whr Battery                     |
+|Touchpad            | ELAN Touchpad    |
 </details>
 
 ## What Works
@@ -33,3 +34,4 @@ Used all SSDTs from PurpleCrumpet's project and a couple of kexts for updated Op
 ## What Doesn't Work
 - Woke from hibernate (closed lid)
 - As PurpleCrumpet's said, the brightness keys (currently mapped to Function + S, Function + B) are not mapped to the arrow keys.
+- Airdrop, Airplay,... (Airporttlwm kext doesn't support Airdrop and Airplay anyway)
