@@ -1,4 +1,6 @@
-# Hackintosh-Dell-Latitude-7390-2-in-1-OpenCore-EFI
+# Dell-Latitude 7390 2-in-1 OpenCore 1.0.5 EFI
+
+Used all SSDTs from PurpleCrumpet's project and a couple of kexts for the EFI.
 
 
 EFI for MacOS Big Sur 11.5.2, using OpenCore 0.7.2 (as of 28/08/2021). 
