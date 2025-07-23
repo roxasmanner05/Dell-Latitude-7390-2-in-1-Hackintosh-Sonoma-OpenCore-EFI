@@ -41,7 +41,7 @@ Used almost all of the SSDTs from [PurpleCrumpet's project](https://github.com/P
 - Apple Audio DRM (Apple Music)
 
 ## What Doesn't Work
-- Woke from hibernate (closed lid)
+- Wake from hibernate (closed lid)
 - As PurpleCrumpet's said, the brightness keys (currently mapped to Function + S, Function + B) are not mapped to the arrow keys.
 - Airdrop, Airplay,... (Airporttlwm kext doesn't support Airdrop and Airplay anyway)
 - Apple Video DRM (Apple TV+,...)
