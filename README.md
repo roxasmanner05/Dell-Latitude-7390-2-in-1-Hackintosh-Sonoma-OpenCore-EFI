@@ -4,7 +4,7 @@
 
 -----
 
-<img alt="Static Badge" src="https://img.shields.io/badge/1.0.5-opencore?style=flat&logoColor=grey&logoSize=auto&label=OpenCore&labelColor=grey&color=blue&link=https%3A%2F%2Fgithub.com%2Facidanthera%2FOpenCorePkg">
+[![OpenCore](https://img.shields.io/badge/1.0.5-opencore?style=flat&logoColor=grey&logoSize=auto&label=OpenCore&labelColor=grey&color=blue)](https://github.com/acidanthera/OpenCorePkg/releases/tag/1.0.5)
 
 
 
