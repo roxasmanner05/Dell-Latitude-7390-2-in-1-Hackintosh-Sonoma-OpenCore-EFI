@@ -2,6 +2,20 @@
 
 Used all SSDTs from PurpleCrumpet's project and a couple of kexts for the EFI.
 
+<details>  
+
+| Laptop              | Dell Latitude 7390 2-in-1                                                                                  |
+|:-------------------|:----------------------------------------------------------------------------------------------------------|
+| Processor          | Intel Core i5-8350U (4C, 4T,  1.8GHz / 2.71GHz) vPro (The best compatibility with macOS)                 |                                             
+| Graphics           | Integrated Intel UHD 620 Graphics                                                                        |
+| Memory             | 16 GB LPDDR3 2133MHz Soldered                                                 |
+| Display            | 13.1" FHD (1920x1080) IPS, Touchscreen with Wacom Pen Support                                                                      |
+| Storage            | 256GB Intel SSD                                                                               |
+| Wifi Card           | Intel Wifi AC8265 + Bluetooth 4.2                                        |
+| Battery            | 60Whr Battery                     |
+
+
+</details>
 
 EFI for MacOS Big Sur 11.5.2, using OpenCore 0.7.2 (as of 28/08/2021). 
 
