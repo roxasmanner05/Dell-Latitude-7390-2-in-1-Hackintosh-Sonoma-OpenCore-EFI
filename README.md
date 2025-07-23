@@ -8,7 +8,7 @@
 
 
 
-Used all SSDTs from PurpleCrumpet's project and a couple of kexts for updated OpenCore ```1.0.5``` EFI, Installed using MacOS Sonoma ```14.7.6```.
+Used almost all of the SSDTs from PurpleCrumpet's project (except SSDT-PLUG) and a couple of kexts for updated OpenCore ```1.0.5``` EFI, This project was using MacOS Sonoma ```14.7.6```.
 
 <br>**My Laptop Specs and Configuration 💻**</br>
 <details>
