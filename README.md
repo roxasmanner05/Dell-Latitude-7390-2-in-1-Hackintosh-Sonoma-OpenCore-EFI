@@ -8,7 +8,7 @@
 
 
 
-Used almost all of the SSDTs from PurpleCrumpet's project (except SSDT-PLUG) and a couple of kexts for updated OpenCore ```1.0.5``` EFI, This project was using MacOS Sonoma ```14.7.6```.
+Used almost all of the SSDTs from [PurpleCrumpet's project](https://github.com/PurpleCrumpets/Hackintosh-Dell-Latitude-7390-2-in-1-OpenCore-EFI) (except SSDT-PLUG) and a couple of kexts for updated OpenCore ```1.0.5``` EFI, this project was for MacOS Sonoma ```14.7.6```.
 
 <br>**My Laptop Specs and Configuration 💻**</br>
 <details>
@@ -36,7 +36,7 @@ Used almost all of the SSDTs from PurpleCrumpet's project (except SSDT-PLUG) and
 - Touchscreen (works as a giant touchpad)
 - Pen support (?) (i don't have any Wacom stylus so i'm not sure)
 - Keyboard
-- iMessage and Facetime works (but you have to add your own SMBIOS from [here](https://dortania.github.io/OpenCore-Install-Guide/config-laptop.plist/kaby-lake.html#platforminfo))
+- iMessage and Facetime works (but you have to add your own SMBIOS from [here](https://dortania.github.io/OpenCore-Install-Guide/config-laptop.plist/kaby-lake.html#platforminfo)
 - Wifi and Bluetooth (Bluetooth were a bit picky to some devices)
 
 ## What Doesn't Work
