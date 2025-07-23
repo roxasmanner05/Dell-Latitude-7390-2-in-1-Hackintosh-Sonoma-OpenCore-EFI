@@ -1,5 +1,9 @@
  # Dell Latitude 7390 2-in-1 Hackintosh Sonoma with OpenCore 1.0.5
 
+<img width="1920" height="1080" alt="Screenshot 2025-07-23 at 23 21 03" src="https://github.com/user-attachments/assets/5b6753dc-dd55-4d7b-8aa2-961540bf73ec" />
+
+-----
+
 <img alt="Static Badge" src="https://img.shields.io/badge/1.0.5-opencore?style=flat&logoColor=grey&logoSize=auto&label=OpenCore&labelColor=grey&color=blue&link=https%3A%2F%2Fgithub.com%2Facidanthera%2FOpenCorePkg">
 
 
