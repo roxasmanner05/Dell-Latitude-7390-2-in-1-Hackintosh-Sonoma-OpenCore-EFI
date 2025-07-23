@@ -1,4 +1,4 @@
-# Dell Latitude 7390 2-in-1 OpenCore 1.0.5 EFI
+# Dell Latitude 7390 2-in-1 Hackintosh Sonoma with OpenCore 1.0.5
 
 Used all SSDTs from PurpleCrumpet's project and a couple of kexts for updated OpenCore ```1.0.5``` EFI, Installed using MacOS Sonoma ```14.7.6```.
 
