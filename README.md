@@ -8,7 +8,7 @@
 
 
 
-Used almost all of the SSDTs from [PurpleCrumpet's project](https://github.com/PurpleCrumpets/Hackintosh-Dell-Latitude-7390-2-in-1-OpenCore-EFI) (except SSDT-PLUG) and a couple of kexts for updated OpenCore ```1.0.5``` EFI, this project was for MacOS Sonoma ```14.7.6```.
+Used almost all of the SSDTs from [PurpleCrumpet's project](https://github.com/PurpleCrumpets/Hackintosh-Dell-Latitude-7390-2-in-1-OpenCore-EFI) (except SSDT-PLUG) and a couple of kexts was updated for OpenCore ```1.0.5``` EFI, this project was for MacOS Sonoma ```14.7.6```.
 
 <br>**My Laptop Specs and Configuration 💻**</br>
 <details>
