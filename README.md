@@ -39,7 +39,7 @@ Used almost all of the SSDTs from [PurpleCrumpet's project](https://github.com/P
 - iMessage and Facetime works (but you have to add your own SMBIOS from [here](https://dortania.github.io/OpenCore-Install-Guide/config-laptop.plist/kaby-lake.html#platforminfo)
 - Wifi and Bluetooth (Bluetooth were a bit picky to some devices)
 - Apple Audio DRM (Apple Music)
-- Brightess functions (Fn + Arrow up/down) thanks to [@superguyadi](https://github.com/superguyadi)'s [tips](https://github.com/PurpleCrumpets/Hackintosh-Dell-Latitude-7390-2-in-1-OpenCore-EFI/issues/3)
+- Brightness functions (Fn + Arrow up/down) thanks to [@superguyadi](https://github.com/superguyadi)'s [tips](https://github.com/PurpleCrumpets/Hackintosh-Dell-Latitude-7390-2-in-1-OpenCore-EFI/issues/3)
 
 ## What Doesn't Work
 - Wake from hibernate (closed lid)
