@@ -30,7 +30,7 @@ Used almost all of the SSDTs from [PurpleCrumpet's project](https://github.com/P
 - Sleep (sleep works only when the lid was open)
 - MicroSD card reader
 - All USB ports (i don't know about Thunderbolt 3 because i don't have any Thunderbolt device)
-- HDMI (HDMI works but with purple tinge)
+- HDMI
 - Webcam
 - Touchpad (touchpad buttons can only be used for 1 button purpose) 
 - Touchscreen (works as a giant touchpad)
