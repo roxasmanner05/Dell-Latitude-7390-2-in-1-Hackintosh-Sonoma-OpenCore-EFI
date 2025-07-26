@@ -1,4 +1,4 @@
- # Dell Latitude 7390 2-in-1 Hackintosh Sonoma with OpenCore 1.0.5
+ # Dell Latitude 7390 2-in-1 Hackintosh with OpenCore 1.0.5
 
 <img width="1920" height="1080" alt="Screenshot 2025-07-23 at 23 21 03" src="https://github.com/user-attachments/assets/5b6753dc-dd55-4d7b-8aa2-961540bf73ec" />
 
