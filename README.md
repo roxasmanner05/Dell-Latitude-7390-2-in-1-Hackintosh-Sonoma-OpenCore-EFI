@@ -1,8 +1,9 @@
- # Dell Latitude 7390 2-in-1 Hackintosh with OpenCore 1.0.5
+ # Dell Latitude 7390 2-in-1 Hackintosh Sequoia with OpenCore 1.0.5
 
-<img width="1920" height="1080" alt="Screenshot 2025-07-23 at 23 21 03" src="https://github.com/user-attachments/assets/5b6753dc-dd55-4d7b-8aa2-961540bf73ec" />
+<img width="1920" height="1080" alt="Screenshot 2025-07-25 at 23 39 21" src="https://github.com/user-attachments/assets/ef49e4ec-26ba-442f-aea1-912d0bb63ba3" />
 
 -----
+
 
 [![OpenCore](https://img.shields.io/badge/1.0.5-opencore?style=flat&logoColor=grey&logoSize=auto&label=OpenCore&labelColor=grey&color=blue)](https://github.com/acidanthera/OpenCorePkg/releases/tag/1.0.5)
 
@@ -40,8 +41,8 @@ Used almost all of the SSDTs from [PurpleCrumpet's project](https://github.com/P
 - Wifi and Bluetooth (Bluetooth were a bit picky to some devices)
 - Apple Audio DRM (Apple Music)
 - Brightness functions (Fn + Arrow up/down) thanks to [@superguyadi](https://github.com/superguyadi)'s [tips](https://github.com/PurpleCrumpets/Hackintosh-Dell-Latitude-7390-2-in-1-OpenCore-EFI/issues/3)
+- Airdrop, Airplay (only 1 way) thanks to [@randomappleboi](https://github.com/randomappleboi)'s guide [here](https://github.com/randomappleboi/Native-Wifi-for-Hackintoshes-with-Intel-Wireless-cards-on-macOS-sequoia)
 
 ## What Doesn't Work
 - Wake from hibernate (closed lid)
-- Airdrop, Airplay,... (Airporttlwm kext doesn't support Airdrop and Airplay anyway)
 - Apple Video DRM (Apple TV+,...)
