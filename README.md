@@ -39,7 +39,8 @@ Used almost all of the SSDTs from [PurpleCrumpet's project](https://github.com/P
 - Keyboard
 - iMessage and Facetime works (but you have to add your own SMBIOS from [here](https://dortania.github.io/OpenCore-Install-Guide/config-laptop.plist/kaby-lake.html#platforminfo)
 - Wifi and Bluetooth (Bluetooth were a bit picky to some devices)
-- Apple Audio DRM (Apple Music)
+- Apple Music Lossless DRM (works by using unfairgva=7 boot arg which offloads the decoder to software)
+- Sidecar (you can use sidecar using usb cable but you have to disable the unfairgva=7 bootarg so that it can run hardware decoder, which means you lose Apple Music Lossless DRM)
 - Brightness functions (Fn + Arrow up/down) thanks to [@superguyadi](https://github.com/superguyadi)'s [tips](https://github.com/PurpleCrumpets/Hackintosh-Dell-Latitude-7390-2-in-1-OpenCore-EFI/issues/3)
 - Airdrop, Airplay (only 1 way) thanks to [@randomappleboi](https://github.com/randomappleboi)'s guide [here](https://github.com/randomappleboi/Native-Wifi-for-Hackintoshes-with-Intel-Wireless-cards-on-macOS-sequoia)
 
